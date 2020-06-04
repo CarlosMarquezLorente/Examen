@@ -20,6 +20,8 @@ public class NotaController : MonoBehaviour
     Vector3 velocity;
     bool isGrounded;
     
+  
+
 
     private void Start()
     {
